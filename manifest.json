@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "ETS amélioré",
   "short_name": "ETSenh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Ajoute plusieurs nouvelles fonctionnalités au système ETS.",
   "icons": { 
     "16": "icon16.png",
